@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "u5eZlIXl7gg=",
+  "success": true,
+  "projectFilePath": "/home/leof/RiderProjects/BlazorApp2/BlazorApp2.Tests/BlazorApp2.Tests.csproj",
+  "expectedPackageFiles": [
+    "/home/leof/.nuget/packages/coverlet.collector/6.0.4/coverlet.collector.6.0.4.nupkg.sha512",
+    "/home/leof/.nuget/packages/microsoft.codecoverage/17.14.1/microsoft.codecoverage.17.14.1.nupkg.sha512",
+    "/home/leof/.nuget/packages/microsoft.entityframeworkcore/10.0.12/microsoft.entityframeworkcore.10.0.12.nupkg.sha512",
+    "/home/leof/.nuget/packages/microsoft.entityframeworkcore.abstractions/10.0.12/microsoft.entityframeworkcore.abstractions.10.0.12.nupkg.sha512",
+    "/home/leof/.nuget/packages/microsoft.entityframeworkcore.analyzers/10.0.12/microsoft.entityframeworkcore.analyzers.10.0.12.nupkg.sha512",
+    "/home/leof/.nuget/packages/microsoft.entityframeworkcore.relational/10.0.12/microsoft.entityframeworkcore.relational.10.0.12.nupkg.sha512",
+    "/home/leof/.nuget/packages/microsoft.net.test.sdk/17.14.1/microsoft.net.test.sdk.17.14.1.nupkg.sha512",
+    "/home/leof/.nuget/packages/microsoft.testplatform.objectmodel/17.14.1/microsoft.testplatform.objectmodel.17.14.1.nupkg.sha512",
+    "/home/leof/.nuget/packages/microsoft.testplatform.testhost/17.14.1/microsoft.testplatform.testhost.17.14.1.nupkg.sha512",
+    "/home/leof/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/home/leof/.nuget/packages/npgsql/10.0.3/npgsql.10.0.3.nupkg.sha512",
+    "/home/leof/.nuget/packages/npgsql.entityframeworkcore.postgresql/10.0.3/npgsql.entityframeworkcore.postgresql.10.0.3.nupkg.sha512",
+    "/home/leof/.nuget/packages/plantuml.net/1.4.80/plantuml.net.1.4.80.nupkg.sha512",
+    "/home/leof/.nuget/packages/qrcoder/1.6.0/qrcoder.1.6.0.nupkg.sha512",
+    "/home/leof/.nuget/packages/system.security.cryptography.pkcs/10.0.14/system.security.cryptography.pkcs.10.0.14.nupkg.sha512",
+    "/home/leof/.nuget/packages/xunit/2.9.3/xunit.2.9.3.nupkg.sha512",
+    "/home/leof/.nuget/packages/xunit.abstractions/2.0.3/xunit.abstractions.2.0.3.nupkg.sha512",
+    "/home/leof/.nuget/packages/xunit.analyzers/1.18.0/xunit.analyzers.1.18.0.nupkg.sha512",
+    "/home/leof/.nuget/packages/xunit.assert/2.9.3/xunit.assert.2.9.3.nupkg.sha512",
+    "/home/leof/.nuget/packages/xunit.core/2.9.3/xunit.core.2.9.3.nupkg.sha512",
+    "/home/leof/.nuget/packages/xunit.extensibility.core/2.9.3/xunit.extensibility.core.2.9.3.nupkg.sha512",
+    "/home/leof/.nuget/packages/xunit.extensibility.execution/2.9.3/xunit.extensibility.execution.2.9.3.nupkg.sha512",
+    "/home/leof/.nuget/packages/xunit.runner.visualstudio/3.1.4/xunit.runner.visualstudio.3.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}

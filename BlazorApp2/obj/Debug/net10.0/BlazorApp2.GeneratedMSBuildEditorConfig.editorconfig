@@ -1,0 +1,383 @@
+is_global = true
+build_property.TargetFramework = net10.0
+build_property.TargetFramework = net10.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v10.0
+build_property.RootNamespace = BlazorApp2
+build_property.RootNamespace = BlazorApp2
+build_property.ProjectDir = /home/leof/RiderProjects/BlazorApp2/BlazorApp2/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/leof/RiderProjects/BlazorApp2/BlazorApp2
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 10.0
+build_property.EnableCodeStyleSeverity = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BcHAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Layout/RedirectToAccessDenied.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvUmVkaXJlY3RUb0FjY2Vzc0RlbmllZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Admin/AuditoriaVisualizar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG1pbi9BdWRpdG9yaWFWaXN1YWxpemFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Admin/Usuarios.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG1pbi9Vc3Vhcmlvcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Admin/UsuariosCadastro.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG1pbi9Vc3Vhcmlvc0NhZGFzdHJvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Admin/UsuariosEditar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG1pbi9Vc3Vhcmlvc0VkaXRhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Admin/UsuariosEditarIndividual.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG1pbi9Vc3Vhcmlvc0VkaXRhckluZGl2aWR1YWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Admin/UsuariosRemover.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG1pbi9Vc3Vhcmlvc1JlbW92ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Admin/UsuariosVisualizar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG1pbi9Vc3Vhcmlvc1Zpc3VhbGl6YXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Admin/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG1pbi9fSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Cadastro/ClientesCadastro.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvQ2FkYXN0cm8vQ2xpZW50ZXNDYWRhc3Ryby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Cadastro/EmbalagensCadastro.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvQ2FkYXN0cm8vRW1iYWxhZ2Vuc0NhZGFzdHJvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Cadastro/FornecedoresCadastro.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvQ2FkYXN0cm8vRm9ybmVjZWRvcmVzQ2FkYXN0cm8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Cadastro/FuncionariosCadastro.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvQ2FkYXN0cm8vRnVuY2lvbmFyaW9zQ2FkYXN0cm8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Cadastro/ImpressorasCadastro.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvQ2FkYXN0cm8vSW1wcmVzc29yYXNDYWRhc3Ryby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Cadastro/MateriasPrimasCadastro.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvQ2FkYXN0cm8vTWF0ZXJpYXNQcmltYXNDYWRhc3Ryby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Cadastro/PecasCadastro.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvQ2FkYXN0cm8vUGVjYXNDYWRhc3Ryby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Cadastro/ProdutosCadastro.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvQ2FkYXN0cm8vUHJvZHV0b3NDYWRhc3Ryby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Cadastro/VendasCadastro.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvQ2FkYXN0cm8vVmVuZGFzQ2FkYXN0cm8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Editar/ClientesEditar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvRWRpdGFyL0NsaWVudGVzRWRpdGFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Editar/EmbalagensEditar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvRWRpdGFyL0VtYmFsYWdlbnNFZGl0YXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Editar/EstoqueEditar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvRWRpdGFyL0VzdG9xdWVFZGl0YXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Editar/FornecedoresEditar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvRWRpdGFyL0Zvcm5lY2Vkb3Jlc0VkaXRhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Editar/ImpressorasEditar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvRWRpdGFyL0ltcHJlc3NvcmFzRWRpdGFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Editar/Individual/ClientesEditarIndividual.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvRWRpdGFyL0luZGl2aWR1YWwvQ2xpZW50ZXNFZGl0YXJJbmRpdmlkdWFsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Editar/Individual/EmbalagensEditarIndividual.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvRWRpdGFyL0luZGl2aWR1YWwvRW1iYWxhZ2Vuc0VkaXRhckluZGl2aWR1YWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Editar/Individual/FornecedoresEditarIndividual.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvRWRpdGFyL0luZGl2aWR1YWwvRm9ybmVjZWRvcmVzRWRpdGFySW5kaXZpZHVhbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Editar/Individual/ImpressorasEditarIndividual.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvRWRpdGFyL0luZGl2aWR1YWwvSW1wcmVzc29yYXNFZGl0YXJJbmRpdmlkdWFsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Editar/Individual/MateriasPrimasEditarIndividual.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvRWRpdGFyL0luZGl2aWR1YWwvTWF0ZXJpYXNQcmltYXNFZGl0YXJJbmRpdmlkdWFsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Editar/Individual/ProdutosEditarIndividual.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvRWRpdGFyL0luZGl2aWR1YWwvUHJvZHV0b3NFZGl0YXJJbmRpdmlkdWFsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Editar/Individual/VendasEditarIndividual.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvRWRpdGFyL0luZGl2aWR1YWwvVmVuZGFzRWRpdGFySW5kaXZpZHVhbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Editar/MateriasPrimasEditar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvRWRpdGFyL01hdGVyaWFzUHJpbWFzRWRpdGFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Editar/PecasEditar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvRWRpdGFyL1BlY2FzRWRpdGFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Editar/ProdutosEditar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvRWRpdGFyL1Byb2R1dG9zRWRpdGFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Editar/VendasEditar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvRWRpdGFyL1ZlbmRhc0VkaXRhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Financeiro/Dashboard.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvRmluYW5jZWlyby9EYXNoYm9hcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Financeiro/Financeiro.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvRmluYW5jZWlyby9GaW5hbmNlaXJvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Financeiro/Produtos.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvRmluYW5jZWlyby9Qcm9kdXRvcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Financeiro/Relatorios.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvRmluYW5jZWlyby9SZWxhdG9yaW9zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Financeiro/Vendas.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvRmluYW5jZWlyby9WZW5kYXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Remover/ClientesRemover.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvUmVtb3Zlci9DbGllbnRlc1JlbW92ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Remover/EmbalagensRemover.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvUmVtb3Zlci9FbWJhbGFnZW5zUmVtb3Zlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Remover/FornecedoresRemover.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvUmVtb3Zlci9Gb3JuZWNlZG9yZXNSZW1vdmVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Remover/ImpressorasRemover.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvUmVtb3Zlci9JbXByZXNzb3Jhc1JlbW92ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Remover/MateriasPrimasRemover.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvUmVtb3Zlci9NYXRlcmlhc1ByaW1hc1JlbW92ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Remover/PecasRemover.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvUmVtb3Zlci9QZWNhc1JlbW92ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Remover/ProdutosRemover.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvUmVtb3Zlci9Qcm9kdXRvc1JlbW92ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Remover/VendasRemover.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvUmVtb3Zlci9WZW5kYXNSZW1vdmVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Roots/Clientes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvUm9vdHMvQ2xpZW50ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Roots/Embalagens.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvUm9vdHMvRW1iYWxhZ2Vucy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Roots/Estoque.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvUm9vdHMvRXN0b3F1ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Roots/Fornecedores.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvUm9vdHMvRm9ybmVjZWRvcmVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Roots/Impressoras.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvUm9vdHMvSW1wcmVzc29yYXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Roots/Inicio.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvUm9vdHMvSW5pY2lvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Roots/MateriasPrimas.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvUm9vdHMvTWF0ZXJpYXNQcmltYXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Roots/Pecas.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvUm9vdHMvUGVjYXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Roots/Placas.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvUm9vdHMvUGxhY2FzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Roots/Produtos.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvUm9vdHMvUHJvZHV0b3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Roots/QRCode.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvUm9vdHMvUVJDb2RlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Roots/Vendas.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvUm9vdHMvVmVuZGFzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Roots/VisaoGeral.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvUm9vdHMvVmlzYW9HZXJhbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Roots/VisaoGeralLimparBanco.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvUm9vdHMvVmlzYW9HZXJhbExpbXBhckJhbmNvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Visualizar/BaseVisualizar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvVmlzdWFsaXphci9CYXNlVmlzdWFsaXphci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Visualizar/ClientesVisualizar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvVmlzdWFsaXphci9DbGllbnRlc1Zpc3VhbGl6YXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Visualizar/EmbalagensVisualizar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvVmlzdWFsaXphci9FbWJhbGFnZW5zVmlzdWFsaXphci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Visualizar/EstoqueHistorico.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvVmlzdWFsaXphci9Fc3RvcXVlSGlzdG9yaWNvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Visualizar/EstoqueVisualizar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvVmlzdWFsaXphci9Fc3RvcXVlVmlzdWFsaXphci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Visualizar/FornecedoresVisualizar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvVmlzdWFsaXphci9Gb3JuZWNlZG9yZXNWaXN1YWxpemFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Visualizar/ImpressorasVisualizar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvVmlzdWFsaXphci9JbXByZXNzb3Jhc1Zpc3VhbGl6YXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Visualizar/MateriasPrimasVisualizar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvVmlzdWFsaXphci9NYXRlcmlhc1ByaW1hc1Zpc3VhbGl6YXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Visualizar/PecasVisualizar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvVmlzdWFsaXphci9QZWNhc1Zpc3VhbGl6YXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Visualizar/ProdutosVisualizar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvVmlzdWFsaXphci9Qcm9kdXRvc1Zpc3VhbGl6YXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Visualizar/VendasVisualizar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvVmlzdWFsaXphci9WZW5kYXNWaXN1YWxpemFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Visualizar/VisualizarMais/EmbalagensVisualizarMaisDetalhes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvVmlzdWFsaXphci9WaXN1YWxpemFyTWFpcy9FbWJhbGFnZW5zVmlzdWFsaXphck1haXNEZXRhbGhlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Visualizar/VisualizarMais/MateriasPrimasVisualizarMaisDetalhes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvVmlzdWFsaXphci9WaXN1YWxpemFyTWFpcy9NYXRlcmlhc1ByaW1hc1Zpc3VhbGl6YXJNYWlzRGV0YWxoZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Visualizar/VisualizarMais/ProdutosVisualizarMaisDetalhes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvVmlzdWFsaXphci9WaXN1YWxpemFyTWFpcy9Qcm9kdXRvc1Zpc3VhbGl6YXJNYWlzRGV0YWxoZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/Visualizar/VisualizarMais/VendasVisualizarMaisDetalhes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvVmlzdWFsaXphci9WaXN1YWxpemFyTWFpcy9WZW5kYXNWaXN1YWxpemFyTWFpc0RldGFsaGVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Privado/User/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qcml2YWRvL1VzZXIvX0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Publico/AcessoNegado.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9QdWJsaWNvL0FjZXNzb05lZ2Fkby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Publico/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9QdWJsaWNvL0Vycm9yLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Publico/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9QdWJsaWNvL0xvZ2luLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Publico/QRCodeAtivar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9QdWJsaWNvL1FSQ29kZUF0aXZhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Pages/Publico/QRCodeEditar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9QdWJsaWNvL1FSQ29kZUVkaXRhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Sb3V0ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9fSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-gnv29mi9so
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTmF2TWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-8m0out2oi0
+
+[/home/leof/RiderProjects/BlazorApp2/BlazorApp2/Components/Layout/ReconnectModal.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvUmVjb25uZWN0TW9kYWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-gqzxv9688p
